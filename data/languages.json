@@ -1,0 +1,23 @@
+{
+  "languages": [
+    {"name": "English", "code": "en"},
+    {"name": "Hindi", "code": "hi"},
+    {"name": "Bengali", "code": "bn"},
+    {"name": "Telugu", "code": "te"},
+    {"name": "Tamil", "code": "ta"},
+    {"name": "Kannada", "code": "kn"},
+    {"name": "Malayalam", "code": "ml"},
+    {"name": "Marathi", "code": "mr"},
+    {"name": "Gujarati", "code": "gu"},
+    {"name": "Punjabi", "code": "pa"},
+    {"name": "Urdu", "code": "ur"},
+    {"name": "French", "code": "fr"},
+    {"name": "Spanish", "code": "es"},
+    {"name": "German", "code": "de"},
+    {"name": "Italian", "code": "it"},
+    {"name": "Japanese", "code": "ja"},
+    {"name": "Korean", "code": "ko"},
+    {"name": "Chinese", "code": "zh"},
+    {"name": "Arabic", "code": "ar"}
+  ]
+}

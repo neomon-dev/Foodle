@@ -1,0 +1,8 @@
+{
+  "dishes": [
+    {"name": "Butter Chicken", "source": "English", "target": "Hindi"},
+    {"name": "Paneer Tikka", "source": "English", "target": "Hindi"},
+    {"name": "Biryani", "source": "English", "target": "Hindi"},
+    {"name": "Masala Dosa", "source": "English", "target": "Hindi"}
+  ]
+}
