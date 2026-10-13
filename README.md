@@ -34,6 +34,9 @@ Foodle is designed as a small-business tool: free for personal use, with a possi
 <img width="1900" height="1133" alt="image" src="https://github.com/user-attachments/assets/54136969-9082-4add-9508-b8e8362dbb66" />
 <img width="1907" height="1145" alt="image" src="https://github.com/user-attachments/assets/cb6ac4f8-137f-43ab-8b1c-ad76320a8557" />
 
+##Deployment
+https://foodle.streamlit.app/
+
 ## Architecture overview
 
 Foodle uses a modular Python app built with Streamlit. OCR runs locally with Tesseract and Pillow. The translation layer uses Ollama and an open-weight multilingual model when installed. SQLite stores saved translation sessions. Dish explanations are generated with a structured schema and a cautious fallback path when inference is not available.
