@@ -31,10 +31,8 @@ Foodle is designed as a small-business tool: free for personal use, with a possi
 
 ## Screenshots
 
-Screenshots can be added here after the app is run locally.
-
-![Home page placeholder](https://placehold.co/1200x700?text=Foodle+Home)
-![Translate page placeholder](https://placehold.co/1200x700?text=Translate+a+Menu)
+<img width="1900" height="1133" alt="image" src="https://github.com/user-attachments/assets/54136969-9082-4add-9508-b8e8362dbb66" />
+<img width="1907" height="1145" alt="image" src="https://github.com/user-attachments/assets/cb6ac4f8-137f-43ab-8b1c-ad76320a8557" />
 
 ## Architecture overview
 
